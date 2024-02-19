@@ -13,7 +13,7 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
-    link: "mailto:issacpmathai@hotmail.com"
+  link: "mailto:issacpmathai@hotmail.com"
 
 - type: rss
   icon: "fas fa-rss"

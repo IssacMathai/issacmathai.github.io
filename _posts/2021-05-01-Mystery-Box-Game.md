@@ -11,12 +11,13 @@ Mystery Box Game was created for my Digital Technologies class while in Year 13 
 The plan for writing the code was to let each GUI window has its own class. This simple structure helped with readability and bug fixing as I immediately knew which section of the code to look at.
 
 If I were to do it over again, I would make the game more fair and make it possible to win while also allowing the player to put more money in. This game was based around an 'anti-gambling' theme and so it was intentionally designed to be unfair to dissuade players from practicing gambling in real life, leading to some limitations.
+
 ## Screenshots
 
-<div style="float: left;">
+<div style="float: left; margin-right: 20px;">
     <img src="screenshots/start.png" alt="Start screen of the game" style="max-width: 300px; max-height: 330px;">
 </div>
-<div style="float: left;">
+<div style="float: left; margin-right: 20px;">
     <img src="screenshots/game.png" alt="Gameplay screenshot" style="max-width: 200px; max-height: 330px;">
 </div>
 <div style="float: left;">
@@ -24,3 +25,5 @@ If I were to do it over again, I would make the game more fair and make it possi
 </div>
 <div style="clear: both;"></div>
 
+## Source Code
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_repository-blue?style=for-the-badge&logo=github)](https://github.com/IssacMathai/MysteryBoxGame)

@@ -14,12 +14,13 @@ If I were to do it over again, I would make the game more fair and make it possi
 ## Screenshots
 
 <div style="float: left;">
-    <img src="screenshots/start.png" style="max-width: 300px; max-height: 330px;">
+    <img src="screenshots/start.png" alt="Start screen of the game" style="max-width: 300px; max-height: 330px;">
 </div>
 <div style="float: left;">
-    <img src="screenshots/game.png" style="max-width: 200px; max-height: 330px;">
+    <img src="screenshots/game.png" alt="Gameplay screenshot" style="max-width: 200px; max-height: 330px;">
 </div>
 <div style="float: left;">
-    <img src="screenshots/stats.png" style="max-width: 200px; max-height: 330px;">
+    <img src="screenshots/stats.png" alt="Statistics screen" style="max-width: 200px; max-height: 330px;">
 </div>
 <div style="clear: both;"></div>
+

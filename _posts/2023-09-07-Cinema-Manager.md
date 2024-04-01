@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Cinema Manager"
 date: 2023-09-07 00:00:00 +0800
 categories: [Personal Project]
@@ -34,4 +34,4 @@ Cinema Manager offers the following features:
 ## Source Code
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_repository-blue?style=for-the-badge&logo=github)](https://github.com/IssacMathai/CinemaManager)
 
-
+ -->

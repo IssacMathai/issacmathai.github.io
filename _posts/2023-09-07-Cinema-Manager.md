@@ -1,7 +1,7 @@
 ---
 title: "Cinema Manager"
 date: 2023-09-07 00:00:00 +0800
-categories: [Personal Project]
+categories: [Personal Projects]
 tags: [Java, CLI]
 ---
 

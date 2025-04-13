@@ -1,6 +1,7 @@
 ---
 title: "Mystery Box Game"
 date: 2021-05-01 00:00:00 +0800
+description: A Python-based mystery box game with a user-friendly GUI using Tkinter.
 categories: [High School]
 tags: [Python, tkinter]
 ---

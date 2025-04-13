@@ -1,6 +1,7 @@
 ---
 title: "Temperature Converter"
 date: 2021-07-20 00:00:00 +0800
+description: A Python-based temperature conversion tool with a user-friendly GUI using Tkinter.
 categories: [High School]
 tags: [Python, tkinter]
 ---

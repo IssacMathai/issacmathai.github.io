@@ -1,6 +1,7 @@
 ---
 title: "Measurement Converter"
 date: 2021-10-30 00:00:00 +0800
+description: An application that converts between units of measurement.
 categories: [High School]
 tags: [Python, tkinter]
 ---

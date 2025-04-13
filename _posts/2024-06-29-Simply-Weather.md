@@ -1,5 +1,6 @@
 ---
 title: "Simply Weather"
+description: A Python Flask based web application that displays live weather data.
 date: 2024-06-29 00:00:00 +0800
 categories: [Personal Projects]
 tags: [Python, Flask, API]
